@@ -383,7 +383,7 @@ img {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
 	font-style: normal;
-	font-size: 60px;
+	font-size: 40px;
 	margin: 32px 0;
 	color: #674ea7;
 }
@@ -411,9 +411,8 @@ img {
 
 .title h3 {
 	font-weight: 300;
-	text-transform: uppercase;
 	letter-spacing: 5px;
-	font-size: 24px;
+	font-size: 18px;
 	color: #674ea7;
 	margin-top: 5px;
 }
@@ -421,7 +420,6 @@ img {
 .title p {
 	color: #564861;
 	margin: 30px 0 20px;
-	text-transform: uppercase;
 	letter-spacing: 3px;
 	font-size: 16px;
 }
@@ -574,6 +572,6 @@ a {
 
 .actions {
 	display: flex;
-	font-size: 12px;
+	font-size: 15px;
 	letter-spacing: 0pt;
 }
